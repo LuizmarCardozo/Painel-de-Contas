@@ -1,4 +1,3 @@
-```md
 # Minhas Contas 
 
 App simples para gerenciar contas (vencidas / a vencer / pagas) com **HTML, CSS e JavaScript**, visual responsivo (PC e mobile), com **armazenamento local** via **IndexedDB** (Dexie).  
