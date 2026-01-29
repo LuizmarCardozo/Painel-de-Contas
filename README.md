@@ -82,10 +82,4 @@ icon-512.png
 
 
 
-## 📜 Licença
 
-Sinta-se livre para usar/alterar. Se quiser, escolha uma licença (ex.: MIT) e adicione um `LICENSE`.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
